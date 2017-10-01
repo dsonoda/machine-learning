@@ -1,2 +1,1 @@
-# machine-learning
-practice machine learning.
+## 単純パーセプトロン
